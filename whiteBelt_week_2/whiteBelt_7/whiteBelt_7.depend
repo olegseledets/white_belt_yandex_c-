@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574203562 source:c:\users\olegseledets\documents\c++\whitebelt_7\main.cpp
+	<iostream>
+	<vector>
+
