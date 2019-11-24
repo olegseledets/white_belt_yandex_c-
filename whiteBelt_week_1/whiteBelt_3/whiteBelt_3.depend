@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573763528 source:c:\users\olegseledets\documents\c++\whitebelt_3\main.cpp
+	<iostream>
+	<cmath>
+
