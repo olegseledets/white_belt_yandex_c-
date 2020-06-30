@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1575206377 source:c:\users\olegseledets\documents\c++\whitebelt_15\main.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<stdexcept>
+
+1575207843 source:c:\users\olegseledets\documents\c++\whitebelt_week_4\whitebelt_15\main.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<stdexcept>
+
